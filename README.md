@@ -1,5 +1,9 @@
 # 💫 About Me:
-Soy un ingeniero en electrónica con un máster en automatización, y aunque mi trayectoria profesional en programación está en sus primeros pasos, tengo una gran pasión por el mundo del desarrollo de software y la tecnología. Mi formación en ingeniería me ha dado una base sólida en resolución de problemas, análisis lógico y trabajo con sistemas complejos, habilidades que aplico de manera efectiva en mis proyectos de programación.<br><br>Me considero una persona con mucha actitud, siempre dispuesta a aprender y mejorar. Si bien no tengo años de experiencia en el campo de la programación, tengo un fuerte deseo de involucrarme en proyectos desafiantes donde pueda poner en práctica mis conocimientos y continuar creciendo. Estoy convencido de que la mejor manera de avanzar es participando activamente en equipos dinámicos, colaborando con otros profesionales y aprendiendo de cada experiencia.<br><br>Estoy abierto a nuevos retos y oportunidades, y siempre dispuesto a aportar mi energía y compromiso para contribuir al éxito de cualquier proyecto en el que me involucre.
+I'm an electronics engineer with a master's in automation, and while I’m still early in my programming journey, my passion for software development and technology is boundless. My engineering background has given me a strong foundation in problem-solving, logical thinking, and working with complex systems—skills I now apply to create innovative solutions in programming.
+
+What drives me? Curiosity and a hunger for growth. I may not have years of experience yet, but I’m all about diving into new challenges and working on projects that push my boundaries. I believe the best way to learn is by jumping into real-world problems, collaborating with talented people, and always evolving through hands-on experience.
+
+I’m eager to be part of dynamic, fast-paced teams where I can contribute my energy, fresh ideas, and commitment to making a difference. Every project is an opportunity to grow, and I’m excited for what’s next. Let’s build something amazing together!
 
 
 ## 🌐 Socials:
