@@ -1,23 +1,28 @@
 # 💫 About Me:
+![image](https://github.com/user-attachments/assets/41b4d5f6-874b-421d-9881-5d4e144c5a41)
 Background:
 
 Electronics engineer with a master's in automation.
 Strong foundation in problem-solving, logical thinking, and complex systems.
+![image](https://github.com/user-attachments/assets/ba984eed-9ddc-4fad-af7c-d079c63fae9e)
 Programming Journey:
 
 Early in my programming career but highly passionate about software development and technology.
 Continuously applying my engineering skills to create effective programming solutions.
 What Drives Me:
 
+![image](https://github.com/user-attachments/assets/f0971ead-5cf5-43d4-8844-ed363251c887)
 Curiosity and a constant desire to grow.
 Eager to dive into challenging projects and solve real-world problems.
 Focused on learning through experience and hands-on work.
 Collaboration:
 
+![image](https://github.com/user-attachments/assets/31704b2a-9876-4613-a971-063969bc6476)
 Thrive in dynamic teams where collaboration is key.
 Always excited to share new ideas, contribute energy, and learn from others.
 Goals:
 
+![image](https://github.com/user-attachments/assets/4134c4d0-af2e-49fc-838a-994feaf5c6d8)
 Committed to continuous improvement.
 Looking for opportunities to contribute, learn, and grow in impactful projects.
 Ready to take on new challenges and build something amazing together.
