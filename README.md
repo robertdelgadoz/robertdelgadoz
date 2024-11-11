@@ -1,9 +1,26 @@
 # 💫 About Me:
-I'm an electronics engineer with a master's in automation, and while I’m still early in my programming journey, my passion for software development and technology is boundless. My engineering background has given me a strong foundation in problem-solving, logical thinking, and working with complex systems—skills I now apply to create innovative solutions in programming.
+Background:
 
-What drives me? Curiosity and a hunger for growth. I may not have years of experience yet, but I’m all about diving into new challenges and working on projects that push my boundaries. I believe the best way to learn is by jumping into real-world problems, collaborating with talented people, and always evolving through hands-on experience.
+Electronics engineer with a master's in automation.
+Strong foundation in problem-solving, logical thinking, and complex systems.
+Programming Journey:
 
-I’m eager to be part of dynamic, fast-paced teams where I can contribute my energy, fresh ideas, and commitment to making a difference. Every project is an opportunity to grow, and I’m excited for what’s next. Let’s build something amazing together!
+Early in my programming career but highly passionate about software development and technology.
+Continuously applying my engineering skills to create effective programming solutions.
+What Drives Me:
+
+Curiosity and a constant desire to grow.
+Eager to dive into challenging projects and solve real-world problems.
+Focused on learning through experience and hands-on work.
+Collaboration:
+
+Thrive in dynamic teams where collaboration is key.
+Always excited to share new ideas, contribute energy, and learn from others.
+Goals:
+
+Committed to continuous improvement.
+Looking for opportunities to contribute, learn, and grow in impactful projects.
+Ready to take on new challenges and build something amazing together.
 
 
 ## 🌐 Socials:
