@@ -4,6 +4,7 @@ Background:
 
 Electronics engineer with a master's in automation.
 Strong foundation in problem-solving, logical thinking, and complex systems.
+
 ![image](https://github.com/user-attachments/assets/ba984eed-9ddc-4fad-af7c-d079c63fae9e)
 Programming Journey:
 
